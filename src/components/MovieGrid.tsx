@@ -10,6 +10,7 @@ const MovieGrid = () => {
       poster:
         "https://kinosfera-baltika.ru/media_files/movies/vertical_poster_preview/11114/147621_6825dff31b2d25.02131649.webp",
       sessions: ["10:00", "13:30", "17:00", "20:30"],
+      trailer: "https://media.cinemabox.team/r/movies/11114/trailer-kraken.mp4",
     },
     {
       title: "Гладиатор 2",

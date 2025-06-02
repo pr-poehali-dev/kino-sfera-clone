@@ -3,58 +3,40 @@ import MovieCard from "./MovieCard";
 const MovieGrid = () => {
   const movies = [
     {
-      title: "Мстители: Финал",
+      title: "Веном 3: Последний танец",
       genre: "Фантастика, боевик",
-      duration: "181 мин",
-      rating: "12+",
+      duration: "109 мин",
+      rating: "16+",
       poster:
-        "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=400&h=600&fit=crop",
+        "https://kinosfera-baltika.ru/media_files/movies/vertical_poster_preview/11114/147621_6825dff31b2d25.02131649.webp",
       sessions: ["10:00", "13:30", "17:00", "20:30"],
     },
     {
-      title: "Интерстеллар",
-      genre: "Фантастика, драма",
-      duration: "169 мин",
-      rating: "12+",
+      title: "Гладиатор 2",
+      genre: "Боевик, драма",
+      duration: "148 мин",
+      rating: "16+",
       poster:
-        "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=400&h=600&fit=crop",
+        "https://kinosfera-baltika.ru/media_files/movies/vertical_poster_preview/1000000000355/148052_6836c7ae7c1571.56221774.webp",
       sessions: ["11:15", "15:00", "18:45", "22:15"],
     },
     {
-      title: "Джокер",
-      genre: "Триллер, драма",
-      duration: "122 мин",
-      rating: "18+",
+      title: "Моана 2",
+      genre: "Мультфильм, семейный",
+      duration: "100 мин",
+      rating: "6+",
       poster:
-        "https://images.unsplash.com/photo-1509347528160-9329539d97a5?w=400&h=600&fit=crop",
+        "https://kinosfera-baltika.ru/media_files/movies/vertical_poster_preview/1000000000353/147825_682da245cf2e77.04306911.webp",
       sessions: ["12:00", "16:30", "19:15", "21:45"],
     },
     {
-      title: "Дюна",
-      genre: "Фантастика",
-      duration: "155 мин",
-      rating: "12+",
-      poster:
-        "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
-      sessions: ["09:30", "14:00", "18:00", "21:30"],
-    },
-    {
-      title: "Бегущий по лезвию 2049",
-      genre: "Фантастика, триллер",
-      duration: "164 мин",
+      title: "Красная единица",
+      genre: "Боевик, комедия",
+      duration: "123 мин",
       rating: "16+",
       poster:
-        "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=400&h=600&fit=crop",
-      sessions: ["11:00", "15:30", "19:30", "23:00"],
-    },
-    {
-      title: "Начало",
-      genre: "Фантастика, боевик",
-      duration: "148 мин",
-      rating: "12+",
-      poster:
-        "https://images.unsplash.com/photo-1489599235737-384207e02e7b?w=400&h=600&fit=crop",
-      sessions: ["10:30", "14:15", "17:45", "21:00"],
+        "https://kinosfera-baltika.ru/media_files/movies/vertical_poster_preview/1000000000354/147965_6830cae02b9974.26300785.webp",
+      sessions: ["09:30", "14:00", "18:00", "21:30"],
     },
   ];
 
